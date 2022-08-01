@@ -1,4 +1,4 @@
-# Demo for different classifiers
+# Very Simple Demos for ML Classifiers
 
 ## Supervised
 1. [Logistic Regression (done)](https://github.com/guenter-r/classifier_starters/blob/main/logistic_regression.py)
